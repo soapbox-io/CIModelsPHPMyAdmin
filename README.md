@@ -1,9 +1,13 @@
-# PHPMyAdmin Utility
+# CodeIgniter REST
 
-CodeIgniter Models Export for PHPMyAdmin
+## Overview
 
-http://cl.ly/ES77
+This project is all about CodeIgniter RESTful services.
 
-Drop this into:
+## PHPMyAdmin Utility
+
+CodeIgniter Models and Controllers Export for PHPMyAdmin
+
+Drop these 2 files into:
 
 file://localhost/Applications/MAMP/bin/phpMyAdmin/libraries/export/codeigniter.php
